@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Thejoker2012/Projeto-para-fazer-v-deos-automatizados/issues"
   },
-  "homepage": "https://github.com/Thejoker2012/Projeto-para-fazer-v-deos-automatizados#readme"
+  "homepage": "https://github.com/Thejoker2012/Projeto-para-fazer-v-deos-automatizados#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
