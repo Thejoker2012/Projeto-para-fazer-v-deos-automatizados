@@ -1,0 +1,22 @@
+{
+  "name": "projeto-para-fazer-v-deos-automatizados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thejoker2012/Projeto-para-fazer-v-deos-automatizados.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thejoker2012/Projeto-para-fazer-v-deos-automatizados/issues"
+  },
+  "homepage": "https://github.com/Thejoker2012/Projeto-para-fazer-v-deos-automatizados#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
